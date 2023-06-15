@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Jane
 
 
 <h2 align="center">frontend developer</h2>
