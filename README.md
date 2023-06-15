@@ -20,9 +20,7 @@
  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Evgenia.Marchenko"></a>
-</p>
+
 
 ---
 <h3 align="center">Languages and Tools:</h3>
