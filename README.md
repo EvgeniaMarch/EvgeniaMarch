@@ -2,9 +2,8 @@
 
 
 <h2 align="center">frontend developer</h2>
-<img align="right" alt="coding" width="400" src="[https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://user-images.githubusercontent.com/74038190/240879997-e012b52a-b326-4c70-962f-91ee5e1c951f.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240879997-e012b52a-b326-4c70-962f-91ee5e1c951f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bentonfraizer&label=Profile%20views&color=0e75b6&style=flat" alt="evgeniamarch" /> </p>
 
 - 💬 Ask me about **react, redux, typescript**
 
