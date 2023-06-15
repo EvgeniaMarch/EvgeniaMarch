@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Jane
 
 
-<h2 align="center">frontend developer</h2>
+<h2 align="center">Frontend Developer</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240879997-e012b52a-b326-4c70-962f-91ee5e1c951f.gif">
 
 
